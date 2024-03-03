@@ -4,9 +4,9 @@ A collection of older games made by Pikakid98 included in Collection Of Collecti
 
 ### <b><u>Games</b></u>
 
-Cave Of The Dead (v1.0)
+[Cave Of The Dead (v1.0)](https://github.com/Git-Pikakid98/cave-of-the-dead/releases/tag/v1.0)
 \
-The Legend Of Zelda: Sword Of Destiny (v1.0)
+[The Legend Of Zelda: Sword Of Destiny (v1.0)](https://github.com/Git-Pikakid98/the-legend-of-zelda-sword-of-destiny/releases/tag/v1.0)
 \
 Pikakid98 Studios Game Gallery
 \
