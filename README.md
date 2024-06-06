@@ -1,6 +1,6 @@
 # Pikakid98 Classic Game Collection
 
-A collection of older games made by Pikakid98 included in Collection Of Collections
+A collection of older games made by Pikakid98
 
 ### <b><u>Games</b></u>
 
